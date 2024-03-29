@@ -20,6 +20,7 @@ The final version of your paper should incorporate the comments of the reviewers
 In addition, be sure to do all of the following:
 
 - Ensure that your paper conforms to the [Formatting Guidelines](formatting.html).
+- Remove any line numbers or page numbers.
 - Include the authors' names and affiliations under the title.
 - De-anonymize references to your own work in the body of the paper.
 - Ensure that all [tables, graphs, and figures](formatting.html#figures-and-tables) are readable.
